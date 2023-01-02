@@ -30,11 +30,12 @@
   }
 
 
+ 
  .imgShow{
-    position: absolute;
+    position: relative;
     z-index: 1000;
-    left: 26rem;
-    top: 22rem;
+    left: -43%;
+    top: 33%;
     width: 3rem;
     height: 20px;
 } 
